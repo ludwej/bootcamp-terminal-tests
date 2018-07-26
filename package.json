@@ -22,5 +22,8 @@
   "homepage": "https://github.com/ludwej/bootcamp-terminal-tests#readme",
   "dependencies": {
     "chalk": "^2.4.1"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
   }
 }
